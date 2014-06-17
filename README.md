@@ -5,9 +5,9 @@ Adalberto Vargas Website
 ## Preview
 
 You can also find these preview ScrenShots  `info/preview` folder
-![preview capture 01](info/preview/captura-01.png)
-![preview capture 01](info/preview/captura-02.png)
-![preview capture 01](info/preview/captura-03.png)
+![preview capture 01](info/preview/Captura-01.PNG)
+![preview capture 01](info/preview/Captura-02.PNG)
+![preview capture 01](info/preview/Captura-03.PNG)
 
 ## The content
 

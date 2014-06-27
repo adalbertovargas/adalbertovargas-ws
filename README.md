@@ -10,6 +10,7 @@ You can also find these preview ScrenShots  `info/preview` folder
 ![preview capture 01](info/preview/Captura-02.PNG)
 ![preview capture 01](info/preview/Captura-03.PNG)
 
+
 ## The content
 
 Within the download you'll find the following directories (and files), logically grouping common assets. You'll see something like this:
@@ -24,21 +25,14 @@ Within the download you'll find the following directories (and files), logically
     │   ├───images
     │   └───js
     ├───cloud
-    └───seq
-        └───assets
-            ├───app
-            ├───css
-            ├───fonts
-            ├───img
-            ├───js
-            ├───plugins
-            │   ├───bootswatch
-            │   ├───jquery
-            │   └───jquery-frame
-            └───runjs
+    └───seq         => seQ App
 ```
 
 Sometimes is compiled and minified CSS and JS (`file.min.*`).
+
+### Included projects:
+
+- [seQ App](https://github.com/adlnetworks/seQ)
 
 ## Author
 

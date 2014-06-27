@@ -5,10 +5,16 @@ See it [Live.](http://www.adalbertovargas.com)
 
 ## Preview
 
-You can also find these preview ScrenShots  `info/preview` folder
-![preview capture 01](info/preview/Captura-01.PNG)
-![preview capture 01](info/preview/Captura-02.PNG)
-![preview capture 01](info/preview/Captura-03.PNG)
+Demo Website's screenshots
+folder
+![preview capture 01](preview/Captura-01.PNG)
+Image 1. Capture of index
+![preview capture 01](preview/Captura-02.PNG)
+Image 2. Capture of About
+![preview capture 01](preview/Captura-03.PNG)
+Image 3. Capture of Galery
+
+You can also find these preview ScrenShots  `info/preview` 
 
 
 ## The content
@@ -47,14 +53,17 @@ I'm available for freelance work. Remote worldwide or locally around Guadalajara
 #### Just For ADL
 
 Location
-```
+
 Local development:
-:/xampp/htdocs/1/ADL/adalbertovargas-ws
-
+```
+:/data/Codes/ADL/adalbertoVargas-ws
+```
 Remote vevelopment:
+```
 https://github.com/adalbertovargas/adalbertovargas-ws.git
-
+```
 GitHub:
+```
 https://github.com/adalbertovargas/adalbertovargas-ws
 ```
 ## Copyright and license

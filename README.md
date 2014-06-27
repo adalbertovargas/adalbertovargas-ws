@@ -5,16 +5,20 @@ See it [Live.](http://www.adalbertovargas.com)
 
 ## Preview
 
-Demo Website's screenshots
-folder
-![preview capture 01](preview/Captura-01.PNG)
-Image 1. Capture of index
-![preview capture 01](preview/Captura-02.PNG)
-Image 2. Capture of About
-![preview capture 01](preview/Captura-03.PNG)
-Image 3. Capture of Galery
+Here there are some demo Website's screenshots
 
-You can also find these preview ScrenShots  `info/preview` 
+![preview capture 01](preview/Captura-01.PNG)
+Image 1. Welcome screen
+
+
+![preview capture 01](preview/Captura-02.PNG)
+Image 2. Capture from About section
+
+
+![preview capture 01](preview/Captura-03.PNG)
+Image 3. Galery preview
+
+You can also find these preview ScrenShots in folder `info/preview` 
 
 
 ## The content

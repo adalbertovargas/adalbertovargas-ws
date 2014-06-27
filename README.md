@@ -5,7 +5,7 @@ See it [Live.](http://www.adalbertovargas.com)
 
 ## Preview
 
-Here there are some demo Website's screenshots
+Here some website's screenshots:
 
 ![preview capture 01](preview/Captura-01.PNG)
 Image 1. Welcome screen
@@ -18,7 +18,7 @@ Image 2. Capture from About section
 ![preview capture 01](preview/Captura-03.PNG)
 Image 3. Galery preview
 
-You can also find these preview ScrenShots in folder `info/preview` 
+You can also find these preview screnshots in folder `preview` 
 
 
 ## The content
@@ -62,7 +62,7 @@ Local development:
 ```
 :/data/Codes/ADL/adalbertoVargas-ws
 ```
-Remote vevelopment:
+Remote development:
 ```
 https://github.com/adalbertovargas/adalbertovargas-ws.git
 ```
